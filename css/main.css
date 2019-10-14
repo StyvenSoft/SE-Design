@@ -89,7 +89,7 @@
 	text-transform:uppercase;
 	font-weight:bold;
 }
-.menuppal ul li a{
+.menuppal ul li a, .down a{
   text-decoration:none;
   color:#FFF;
 }
