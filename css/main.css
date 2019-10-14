@@ -63,7 +63,7 @@
   transform: translate3d(0px, 0px, 0px);
 }
 .menuppal{
-   background-color: rgba(255, 255, 255, 0.65);
+   background-color: rgba(255, 88, 93, 0.93);
     bottom: 0;
     height: 100%;
     left: 0;
@@ -76,7 +76,7 @@
     z-index: 1001;
 }
 .menuppal ul{
-  margin:0;padding:0;
+  margin-top: 80px;padding:0;
 }
 .menuppal ul li { 
     list-style: none;
@@ -86,12 +86,12 @@
 	line-height:3em;
 	height:3em;
     color:#FF585D;
-	text-transform:none;
+	text-transform:uppercase;
 	font-weight:bold;
 }
 .menuppal ul li a{
   text-decoration:none;
-  color:#FF585D;
+  color:#FFF;
 }
 
 /*---------------------------------------*/
@@ -148,7 +148,7 @@
 .about{
     float: right;
     width: 50%;
-    padding-top: 15%;
+    padding-top: 10%;
 }
 .title{
     font-size: 45px;
@@ -194,7 +194,7 @@
     height: 40px;
     margin: 0 auto;
     text-align: center;
-    background-color: #C4C4C4;
+    background-color: #a5a4a4;
     line-height: 2.5em;
     color: aliceblue;
     border: 0;
